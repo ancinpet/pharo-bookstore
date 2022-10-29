@@ -1,2 +1,2 @@
-# pharo-bookstore
-Basic bookstore written in Pharo (Smalltalk)
+# Bookstore
+Basic bookstore written in Pharo (Smalltalk), a pure object-oriented language
